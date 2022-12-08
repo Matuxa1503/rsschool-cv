@@ -1,7 +1,7 @@
 # Matvey Muravskiy
 ## My Contacts:
 * Phone: +375 29 698-14-15
-* E-mail: [muravskiy.03@mail.ru](muravskiy.03@mail.ru)
+* E-mail: [muravskiy.03@mail.ru](https://muravskiy.03@mail.ru)
 * GitHub: [Matuxa1503](https://github.com/Matuxa1503)
 * Discord: Mateika Muravskiy 
 
