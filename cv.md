@@ -10,8 +10,8 @@
 ## About Me
 I'm 19 years old. At the age of 18, I realized that I wanted to connect my life with programming. Learning is sometimes not easy, but **I don't give up!** I hope that after studying at rs school I will become a good developer and will develop useful and cool web applications.
 * My strengths:
-- benevolence 
-- responsibility
+    - benevolence 
+    - responsibility
 
 ## Code Examples
 ```
