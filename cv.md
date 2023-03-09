@@ -11,3 +11,28 @@ I'm 19 years old. At the age of 18, I realized that I wanted to connect my life 
 * My strengths:
     - benevolence 
     - responsibility
+
+## Code Examples
+```
+let summation = function (num) {
+  let sum = 0;
+  for(let i = 1; i <= num; i++) {
+    sum += i
+  }
+  return sum
+}
+```
+### Work experience:
+*Nothing yet…*
+
+## Education and courses:
+1. Books: "Learning HTML, XHTML и CSS"; "Learning programming on HTML5"; "Learning programming on JavaScript"; 
+2. JavaScript https://learn.javascript.ru/
+3. Website development from scratch. Video courses on YouTube channel: "BrainsCloud"
+4. Basics HTML, CSS, Marsy video courses on YouTube channel: "Фрилансер по жизни"
+5. Course JavaScript/Front-end stage#0 (RS School)
+
+## Language:
+* Russian - native speaker
+* English - A1, learning
+* Polish  - B1
