@@ -66,10 +66,10 @@ p {
 	margin: 0 auto;
 }
 
-/* .section {
+section {
 		padding: 15px 0;
 		background-color: #232755;
-	} */
+	}
 
 	.section--blue {
 		padding: 15px 0;
@@ -148,6 +148,7 @@ nav {
 }
 
 /* Main */
+
 /* ================================
 Section about */
 .main__content {
@@ -181,5 +182,59 @@ li span {
 	margin-left: -7px;
 }
 
+/* Section skills */
+.skills__block {
+	margin-top: 10px;
+}
+
+.skills__item {
+	display: flex;
+	position: relative;
+	margin-bottom: 5px;
+}
+
+.skills__item:last-child {
+	margin-bottom: 0;
+}
+
+.skills__item-text {
+	margin-right: 50px;
+}
+
+.skills__item-line {
+	position: absolute;
+	top: 0;
+	left: 120px;
+}
+
+.skills__item-line::before {
+	content: "";
+	display: inline-block;
+	background-color: #fff;
+	width: 250px;
+	height: 10px;
+	margin-right: 15px;
+	vertical-align: baseline;
+}
+
+.line--two::before {
+	width: 280px;
+	background-color: #9c687c;
+}
+
+.line--three::before {
+	width: 80px;
+	background-color: #c7b8bd;
+}
+
+.line--four::before {
+	width: 50px;
+	background-color: #ce628b;
+}
+
+.line--five::before {
+	width: 1px;
+	background-color: #728895;
+}
 
 /* font-family: 'Roboto', sans-serif;  */
