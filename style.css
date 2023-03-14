@@ -166,7 +166,7 @@ nav {
 }
 
 .main__right-content {
-	padding: 0 10px;
+	padding: 10px 0;
 	width: 67%;
 }
 
@@ -280,6 +280,52 @@ li span {
 
 .project__item:hover .project__item-content {
 	opacity: 1;
+}
+
+/* 
+=============== Education ================ */
+.edu__courses {
+	display: flex;
+}
+
+.edu__item:last-child {
+	margin-left: 20px;
+}
+
+.edu__college {
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+.edu__text {
+	line-height: 1.4;
+	font-size: 15px;
+}
+
+.textUp {
+	margin: -30px 0 0 16px;
+}
+
+.edu__info {
+	margin-bottom: 5px;
+}
+
+/* 
+=============== Code ================ */
+.code {
+	display: flex;
+	align-items: center;
+}
+
+.code__example {
+	background-color: #232755;
+	padding: 0 15px;
+	border-radius: 15px;
+	width: 74%;
+}
+
+code b {
+	color: #9c687c;
 }
 
 /* font-family: 'Roboto', sans-serif;  */
