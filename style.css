@@ -328,4 +328,62 @@ code b {
 	color: #9c687c;
 }
 
-/* font-family: 'Roboto', sans-serif;  */
+/* 
+=============== Contacts ================ */
+.contacts__info b {
+	color: #9c687c;
+	margin-right: 5px;
+}
+
+.contacts__info a {
+	text-decoration: none;
+	color: #e8c8bb;
+	transition: color 0.2s;
+}
+
+.contacts__info a:hover {
+	color: #9c687c;
+}
+
+/* 
+=============== Language ================ */
+.lang__text {
+	font-size: 20px;
+}
+
+.lang__text b {
+	color: #9c687c;
+}
+
+/* 
+=============== Footer ================ */
+.footer__block {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 10px 0;
+}
+
+.year {
+	font-size: 34px;
+}
+
+.gitHub__link {
+	text-align: center;
+}
+
+.gitHub__icon {
+	color: #e8c8bb;
+	font-size: 24px;
+}
+
+.gitHub__text {
+	color: #e8c8bb;
+}
+
+.rsshool__img {
+	display: block;
+	max-width: 100%;
+	width: 100px;
+}
+
