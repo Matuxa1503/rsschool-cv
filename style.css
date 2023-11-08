@@ -35,9 +35,7 @@ button {
 	cursor: pointer;
 }
 
-ul li {
-	list-style: none;
-}
+
 
 h1,
 h2,
@@ -112,6 +110,10 @@ nav {
 	display: flex;
 	padding-top: 15px;
 	justify-content: space-around;
+}
+
+.nav__li {
+	list-style-type: none;
 }
 
 .nav__link {
